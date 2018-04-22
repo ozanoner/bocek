@@ -4,3 +4,9 @@
 [submodule "bocek/lib/Adafruit_Sensor"]
 	path = bocek/lib/Adafruit_Sensor
 	url = https://github.com/adafruit/Adafruit_Sensor.git
+[submodule "mqtt"]
+	path = mqtt
+	url = https://github.com/xamarin/mqtt.git
+[submodule "paho.mqtt.m2mqtt"]
+	path = paho.mqtt.m2mqtt
+	url = https://github.com/eclipse/paho.mqtt.m2mqtt.git
